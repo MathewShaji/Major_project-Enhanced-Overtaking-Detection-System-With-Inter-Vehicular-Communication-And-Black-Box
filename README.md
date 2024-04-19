@@ -1,0 +1,2 @@
+# Major_project-Enhanced-Overtaking-Detection-System-With-Inter-Vehicular-Communication-And-Black-Box
+This project helps in identifying violators who overtake in bridges  This also includes V2V communication that helps the drivers to communicate and overtake safely, also we have created a Black Box that records audio and video for a car which can help the investigator to know the cause of accident.
